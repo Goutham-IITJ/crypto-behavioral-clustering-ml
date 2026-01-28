@@ -1,7 +1,7 @@
 # 📈 Hyperliquid Trader Behavior & Sentiment Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Goutham-IITJ/crypto-behavioral-clustering-ml/blob/main/analysis.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com/Goutham-IITJ/crypto-behavioral-clustering-ml/blob/main/analysis.ipynb](https://colab.research.google.com/drive/1GCpUAHcnIBJZ06GdCO2RDtJFgBl0cBcl?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GCpUAHcnIBJZ06GdCO2RDtJFgBl0cBcl?usp=sharing)
+
 
 ## 📌 Overview
 This repository contains a comprehensive data science pipeline analyzing the relationship between **Hyperliquid Historical Trader Data** and the **Bitcoin Fear & Greed Index**. The goal was to move beyond surface-level correlations to uncover "hidden patterns" in trader archetypes and sentiment-driven performance.
